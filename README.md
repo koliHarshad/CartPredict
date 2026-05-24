@@ -15,7 +15,7 @@ The project goes beyond basic prediction by conducting a comparative study of di
 ## 🗂️ Dataset Details
 * **File:** `user_behaviour.csv`
 * **Description:** The dataset contains User Behaviour data with 455,401 observations across 25 features. 
-* **Target Variable:** The binary outcome of whether the user added an item to the cart (`1` for Yes, `0` for No).
+* **Target Variable:** The binary outcome of whether the user ordered (`1` for Yes, `0` for No).
 
 ---
 
